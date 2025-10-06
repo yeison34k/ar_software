@@ -1,0 +1,7 @@
+{
+  "clienteId": 1,
+  "tipo": "RETIRO",
+  "monto": 500.00,
+  "descripcion": "Retiro en cajero automático",
+  "estado": "COMPLETADA"
+}

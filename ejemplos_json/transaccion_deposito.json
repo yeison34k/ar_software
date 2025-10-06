@@ -1,0 +1,7 @@
+{
+  "clienteId": 1,
+  "tipo": "DEPOSITO",
+  "monto": 1500.00,
+  "descripcion": "Depósito inicial con acentos: José María",
+  "estado": "COMPLETADA"
+}
